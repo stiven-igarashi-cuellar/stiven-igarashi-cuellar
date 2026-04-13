@@ -4,9 +4,6 @@
 🇧🇷 Brazil
 <div align="center">
 
-![Stiven GitHub stats](https://github-readme-stats.vercel.app/api?username=stiven-igarashi-cuellar&show_icons=true&theme=radical)
-  
-
 [![GitHub Forks](https://img.shields.io/github/forks/stiven-igarashi-cuellar/badges?style=flat&color=0891b2&logo=github&logoColor=red)](https://github.com/stiven-igarashi-cuellar/badges/network)
 
 [![GitHub License](https://img.shields.io/github/license/stiven-igarashi-cuellar/badges?style=flat&color=22c55e)](https://github.com/stiven-igarashi-cuellar/badges/blob/main/LICENSE)
