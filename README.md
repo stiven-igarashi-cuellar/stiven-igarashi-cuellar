@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oi meu nome é Stiven 👋, sou estudante de Análise e Desenvolvimento de Sistemas
 
 <!--
 **stiven-igarashi-cuellar/stiven-igarashi-cuellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
