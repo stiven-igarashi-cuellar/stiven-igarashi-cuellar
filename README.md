@@ -28,16 +28,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align="center">
-
-## Tecnologias
-
-</div>
-
-[![GitHub License](https://img.shields.io/github/license/stiven-igarashi-cuellar/badges?style=flat&color=22c55e)](https://github.com/stiven-igarashi-cuellar/badges/blob/main/LICENSE)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stiven-igarashi-cuellar/)
-</div>
 
 
 <div align="center">
