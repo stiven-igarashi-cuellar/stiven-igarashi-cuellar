@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-<a href="https://github.com/stiven-igarashi-cuellar">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?stiven-igarashi-cuellar&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiven-igarashi-cuellar&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=stiven-igarashi-cuellar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
   
 [![GitHub Forks](https://img.shields.io/github/forks/stiven-igarashi-cuellar/badges?style=flat&color=0891b2&logo=github&logoColor=red)](https://github.com/stiven-igarashi-cuellar/badges/network)
 
